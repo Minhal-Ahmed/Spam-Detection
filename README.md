@@ -1,8 +1,4 @@
-### Email Spam Detection Using Machine Learning
-
----
-
-# Spam Detection with Machine Learning
+#Email Spam Detection with Machine Learning
 
 This project demonstrates a machine learning-based approach to classify emails as spam or ham (non-spam). Using text preprocessing, feature extraction, and a Random Forest Classifier, the model achieves efficient spam detection. The project also includes evaluation metrics to measure the model's performance.
 
@@ -87,7 +83,7 @@ Ensure the dataset is placed in the project directory.
 1. Place the `spam_ham_dataset.csv` file in the project directory.
 2. Run the script:
    ```bash
-   python <script_name>.py
+   python <script_name>.ipynb
    ```
    Replace `<script_name>` with the name of the script file.
 
