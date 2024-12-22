@@ -1,4 +1,4 @@
-#Email Spam Detection with Machine Learning
+###Email Spam Detection with Machine Learning
 
 This project demonstrates a machine learning-based approach to classify emails as spam or ham (non-spam). Using text preprocessing, feature extraction, and a Random Forest Classifier, the model achieves efficient spam detection. The project also includes evaluation metrics to measure the model's performance.
 
