@@ -60,8 +60,8 @@ Ensure the dataset is placed in the project directory.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Minhal-Ahmed/Spam-Detection
+   cd Spam-Detection
    ```
 
 2. **Preprocess the Data**:
@@ -83,10 +83,9 @@ Ensure the dataset is placed in the project directory.
 1. Place the `spam_ham_dataset.csv` file in the project directory.
 2. Run the script:
    ```bash
-   python <script_name>.ipynb
+   python main.ipynb
    ```
-   Replace `<script_name>` with the name of the script file.
-
+  
 ---
 
 ## Customization
@@ -99,15 +98,6 @@ Ensure the dataset is placed in the project directory.
 
 - **Enhance Preprocessing**:
   Add more steps like lemmatization or domain-specific stopwords.
-
----
-
-## Future Work
-
-- Integrate TF-IDF for feature extraction.
-- Add deep learning models to enhance classification accuracy.
-- Build a user-friendly GUI or API for easier usage.
-- Implement hyperparameter tuning for the classifier.
 
 ---
 
